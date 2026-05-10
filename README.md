@@ -6,3 +6,7 @@ A collection of data analyst portfolio projects showcasing skills in SQL, Python
 | Project | Tools | Description |
 |--------|-------|-------------|
 | [Cafe Sales Analysis](test) | Excel, SQL  | loreum ipsum |
+
+## 📫 Contact
+- [LinkedIn](linkedin profile)
+- email email
